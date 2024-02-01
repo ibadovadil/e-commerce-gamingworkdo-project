@@ -43,7 +43,7 @@ From here you can add products to cart
 
 ![BlogDetail2](https://github.com/ibadovadil/e-commerce-gamingworkdo-project/assets/141220536/2440b685-5668-4244-bdbd-9227d7738a39)
 
-## Autherization page
+## Authorization page
 ![login](https://github.com/ibadovadil/e-commerce-gamingworkdo-project/assets/141220536/d6c9f4c1-104b-4799-839b-27a85543cfc8)
 
 ![signin](https://github.com/ibadovadil/e-commerce-gamingworkdo-project/assets/141220536/06f4c926-3312-4da8-b1ce-bdb119ff34e3)
