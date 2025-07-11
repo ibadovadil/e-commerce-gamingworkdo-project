@@ -2,14 +2,14 @@ import firebase from 'firebase/app';
 import 'firebase/database'; 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCtwTZYMBxkALVYzvBKyp1pYfpDM7GwnhM",
-  authDomain: "gamingsitedb.firebaseapp.com",
-  databaseURL: "https://gamingsitedb-default-rtdb.firebaseio.com",
-  projectId: "gamingsitedb",
-  storageBucket: "gamingsitedb.appspot.com",
-  messagingSenderId: "885509515321",
-  appId: "1:885509515321:web:236fb32942040bdb9305e8",
-  measurementId: "G-YVNLK3HLWT"
+  apiKey: "AIzaSyBCXpnNMcrAJjPY8wqz1GhbWPQr3E5BDvI",
+  authDomain: "gamingsitedb-ce8c2.firebaseapp.com",
+  databaseURL: "https://gamingsitedb-ce8c2-default-rtdb.firebaseio.com",
+  projectId: "gamingsitedb-ce8c2",
+  storageBucket: "gamingsitedb-ce8c2.firebasestorage.app",
+  messagingSenderId: "97229756566",
+  appId: "1:97229756566:web:cb4e496443a472a7a68ab7",
+  measurementId: "G-V42KM5S8XX"
 };
 
 firebase.initializeApp(firebaseConfig);
